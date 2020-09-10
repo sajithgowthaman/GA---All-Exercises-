@@ -1,0 +1,8 @@
+1) True
+2) False
+3) False
+4) True
+5) True
+6) These answers are printed: 1, 2, 4, 7, 8, 9
+7) 2
+
